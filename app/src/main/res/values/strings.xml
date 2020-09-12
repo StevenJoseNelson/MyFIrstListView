@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UAPP Schools</string>
+    <string-array name="school">
+        <item>UP</item>
+        <item>Ateneo</item>
+        <item>DLSU</item>
+        <item>UST</item>
+        <item>Adamson</item>
+        <item>FEU</item>
+        <item>NU</item>
+        <item>UE</item>
+    </string-array>
+</resources>
